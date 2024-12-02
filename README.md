@@ -10,7 +10,7 @@ I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++, Pytho
   - Bash Script
   - Python libraries like PyTorch and Tensorflow
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- ✔ Ask me about anything, I am happy to help😉<br>
 - Outside tech, 🎵 I love going to concerts, 🏎️ SIM racing, 🎵 watch series and movies, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="davidblancolascarez@estudiantec.cr">davidblancolascarez@estudiantec.cr</a>
 
