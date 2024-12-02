@@ -76,3 +76,5 @@ I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++, Pytho
 <a href = "">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
+
+
