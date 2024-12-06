@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++, Python, Javascript and Java are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++ and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Artifical Intelligence, and Cloud computing**
 - 🌱 I’m currently learning ...
   - Bash Script
@@ -37,6 +37,7 @@ I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++, Pytho
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> Databases </h4>
