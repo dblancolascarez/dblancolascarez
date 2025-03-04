@@ -7,7 +7,7 @@
 I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++ and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Project Management, Artifical Intelligence, and Cloud computing**
 - 🌱 I’m currently learning ...
-  - Bash Script
+  - Nvidia CUDA
   - Python AI libraries
 - 👯 I’m looking forward to create new projects.
 - ✔ Ask me about anything, I am happy to help😉<br>
