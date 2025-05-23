@@ -5,11 +5,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an Computer Engineering student at Tecnologico de Costa Rica. C, C++ and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Project Management, Artifical Intelligence, and Cloud computing**
+* **I am interested in Artifical Intelligence and Cloud computing**
 - 🌱 I’m currently learning ...
   - Nvidia CUDA
   - Python AI libraries
-- 👯 I’m looking forward to create new projects.
 - ✔ Ask me about anything, I am happy to help😉<br>
 - Outside tech, 🎵 I love going to concerts, 🏎️ SIM racing, 🎵 watch series and movies, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="davidblancolascarez@estudiantec.cr">davidblancolascarez@estudiantec.cr</a>
